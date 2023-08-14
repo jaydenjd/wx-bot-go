@@ -1,4 +1,4 @@
-module github.com/jaydenjd/wxwork-bot-go
+module github.com/jaydenjd/wx-bot-go
 
 go 1.20
 
